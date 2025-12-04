@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing gp7_boxes.egg-info/PKG-INFO
+writing dependency_links to gp7_boxes.egg-info/dependency_links.txt
+writing entry points to gp7_boxes.egg-info/entry_points.txt
+writing requirements to gp7_boxes.egg-info/requires.txt
+writing top-level names to gp7_boxes.egg-info/top_level.txt
+reading manifest file 'gp7_boxes.egg-info/SOURCES.txt'
+writing manifest file 'gp7_boxes.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages/gp7-boxes.egg-link (link to .)
+Installing boxes script to /home/savindu/gp7_ws/install/gp7_boxes/lib/gp7_boxes
+
+Installed /home/savindu/gp7_ws/build/gp7_boxes
+running symlink_data
+symbolically linking /home/savindu/gp7_ws/build/gp7_boxes/resource/gp7_boxes -> /home/savindu/gp7_ws/install/gp7_boxes/share/ament_index/resource_index/packages
+symbolically linking /home/savindu/gp7_ws/build/gp7_boxes/package.xml -> /home/savindu/gp7_ws/install/gp7_boxes/share/gp7_boxes

@@ -1,0 +1,29 @@
+[0.563s] Invoking command in '/home/savindu/gp7_ws/build/gp7_boxes': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/savindu/gp7_ws/build/gp7_boxes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/savindu/gp7_ws/build/gp7_boxes/build
+[0.806s] running develop
+[0.955s] Removing /home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages/gp7-boxes.egg-link (link to .)
+[0.978s] Invoked command in '/home/savindu/gp7_ws/build/gp7_boxes' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/savindu/gp7_ws/build/gp7_boxes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/savindu/gp7_ws/build/gp7_boxes/build
+[0.979s] Invoking command in '/home/savindu/gp7_ws/src/gp7_boxes': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/savindu/gp7_ws/build/gp7_boxes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gp7_boxes build --build-base /home/savindu/gp7_ws/build/gp7_boxes/build install --record /home/savindu/gp7_ws/build/gp7_boxes/install.log --single-version-externally-managed install_data --force
+[1.154s] running egg_info
+[1.167s] writing ../../build/gp7_boxes/gp7_boxes.egg-info/PKG-INFO
+[1.167s] writing dependency_links to ../../build/gp7_boxes/gp7_boxes.egg-info/dependency_links.txt
+[1.167s] writing entry points to ../../build/gp7_boxes/gp7_boxes.egg-info/entry_points.txt
+[1.167s] writing requirements to ../../build/gp7_boxes/gp7_boxes.egg-info/requires.txt
+[1.167s] writing top-level names to ../../build/gp7_boxes/gp7_boxes.egg-info/top_level.txt
+[1.193s] reading manifest file '../../build/gp7_boxes/gp7_boxes.egg-info/SOURCES.txt'
+[1.194s] writing manifest file '../../build/gp7_boxes/gp7_boxes.egg-info/SOURCES.txt'
+[1.194s] running build
+[1.194s] running build_py
+[1.194s] running install
+[1.199s] running install_lib
+[1.213s] creating /home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes
+[1.213s] copying /home/savindu/gp7_ws/build/gp7_boxes/build/lib/gp7_boxes/__init__.py -> /home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes
+[1.213s] byte-compiling /home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes/__init__.py to __init__.cpython-312.pyc
+[1.213s] running install_data
+[1.213s] copying resource/gp7_boxes -> /home/savindu/gp7_ws/install/gp7_boxes/share/ament_index/resource_index/packages
+[1.213s] copying package.xml -> /home/savindu/gp7_ws/install/gp7_boxes/share/gp7_boxes
+[1.213s] running install_egg_info
+[1.228s] Copying ../../build/gp7_boxes/gp7_boxes.egg-info to /home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes-0.0.0-py3.12.egg-info
+[1.229s] running install_scripts
+[1.321s] Installing boxes script to /home/savindu/gp7_ws/install/gp7_boxes/lib/gp7_boxes
+[1.321s] writing list of installed files to '/home/savindu/gp7_ws/build/gp7_boxes/install.log'
+[1.341s] Invoked command in '/home/savindu/gp7_ws/src/gp7_boxes' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/savindu/gp7_ws/build/gp7_boxes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gp7_boxes build --build-base /home/savindu/gp7_ws/build/gp7_boxes/build install --record /home/savindu/gp7_ws/build/gp7_boxes/install.log --single-version-externally-managed install_data --force

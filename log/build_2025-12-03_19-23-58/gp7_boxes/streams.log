@@ -1,0 +1,19 @@
+[0.570s] Invoking command in '/home/savindu/gp7_ws/build/gp7_boxes': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/savindu/gp7_ws/build/gp7_boxes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/savindu/gp7_ws/build/gp7_boxes/build --no-deps symlink_data --force
+[0.805s] running develop
+[0.953s] running egg_info
+[0.967s] writing gp7_boxes.egg-info/PKG-INFO
+[0.967s] writing dependency_links to gp7_boxes.egg-info/dependency_links.txt
+[0.968s] writing entry points to gp7_boxes.egg-info/entry_points.txt
+[0.968s] writing requirements to gp7_boxes.egg-info/requires.txt
+[0.968s] writing top-level names to gp7_boxes.egg-info/top_level.txt
+[0.997s] reading manifest file 'gp7_boxes.egg-info/SOURCES.txt'
+[0.997s] writing manifest file 'gp7_boxes.egg-info/SOURCES.txt'
+[1.013s] running build_ext
+[1.013s] Creating /home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages/gp7-boxes.egg-link (link to .)
+[1.014s] Installing boxes script to /home/savindu/gp7_ws/install/gp7_boxes/lib/gp7_boxes
+[1.014s] 
+[1.014s] Installed /home/savindu/gp7_ws/build/gp7_boxes
+[1.014s] running symlink_data
+[1.014s] symbolically linking /home/savindu/gp7_ws/build/gp7_boxes/resource/gp7_boxes -> /home/savindu/gp7_ws/install/gp7_boxes/share/ament_index/resource_index/packages
+[1.014s] symbolically linking /home/savindu/gp7_ws/build/gp7_boxes/package.xml -> /home/savindu/gp7_ws/install/gp7_boxes/share/gp7_boxes
+[1.038s] Invoked command in '/home/savindu/gp7_ws/build/gp7_boxes' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/savindu/gp7_ws/build/gp7_boxes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/savindu/gp7_ws/build/gp7_boxes/build --no-deps symlink_data --force
