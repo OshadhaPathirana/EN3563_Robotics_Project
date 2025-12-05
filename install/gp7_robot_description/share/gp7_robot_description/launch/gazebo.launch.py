@@ -1,1 +1,0 @@
-/home/savindu/gp7_ws/src/gp7_robot_description/launch/gazebo.launch.py

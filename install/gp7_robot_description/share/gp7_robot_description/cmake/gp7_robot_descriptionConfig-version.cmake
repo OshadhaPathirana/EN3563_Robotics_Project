@@ -1,1 +1,0 @@
-/home/savindu/gp7_ws/build/gp7_robot_description/ament_cmake_core/gp7_robot_descriptionConfig-version.cmake
