@@ -1,0 +1,42 @@
+[4.789s] Invoking command in '/home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/gp7_boxes build --build-base /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/build install --record /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/install.log --single-version-externally-managed install_data
+[5.085s] running egg_info
+[5.085s] creating build/gp7_boxes/gp7_boxes.egg-info
+[5.105s] writing build/gp7_boxes/gp7_boxes.egg-info/PKG-INFO
+[5.106s] writing dependency_links to build/gp7_boxes/gp7_boxes.egg-info/dependency_links.txt
+[5.106s] writing entry points to build/gp7_boxes/gp7_boxes.egg-info/entry_points.txt
+[5.106s] writing requirements to build/gp7_boxes/gp7_boxes.egg-info/requires.txt
+[5.106s] writing top-level names to build/gp7_boxes/gp7_boxes.egg-info/top_level.txt
+[5.106s] writing manifest file 'build/gp7_boxes/gp7_boxes.egg-info/SOURCES.txt'
+[5.156s] reading manifest file 'build/gp7_boxes/gp7_boxes.egg-info/SOURCES.txt'
+[5.160s] writing manifest file 'build/gp7_boxes/gp7_boxes.egg-info/SOURCES.txt'
+[5.160s] running build
+[5.161s] running build_py
+[5.161s] creating /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/build
+[5.161s] creating /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/build/lib
+[5.161s] creating /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/build/lib/gp7_boxes
+[5.161s] copying gp7_boxes/__init__.py -> /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/build/lib/gp7_boxes
+[5.163s] creating /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/build/lib/gp7_boxes/scripts
+[5.163s] copying gp7_boxes/scripts/boxes.py -> /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/build/lib/gp7_boxes/scripts
+[5.163s] copying gp7_boxes/scripts/__init__.py -> /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/build/lib/gp7_boxes/scripts
+[5.163s] running install
+[5.174s] running install_lib
+[5.204s] creating /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes
+[5.204s] creating /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes/scripts
+[5.205s] copying /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/build/lib/gp7_boxes/scripts/boxes.py -> /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes/scripts
+[5.206s] copying /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/build/lib/gp7_boxes/scripts/__init__.py -> /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes/scripts
+[5.208s] copying /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/build/lib/gp7_boxes/__init__.py -> /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes
+[5.208s] byte-compiling /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes/scripts/boxes.py to boxes.cpython-312.pyc
+[5.211s] byte-compiling /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes/scripts/__init__.py to __init__.cpython-312.pyc
+[5.212s] byte-compiling /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes/__init__.py to __init__.cpython-312.pyc
+[5.212s] running install_data
+[5.213s] creating /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/share/ament_index
+[5.213s] creating /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/share/ament_index/resource_index
+[5.218s] creating /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/share/ament_index/resource_index/packages
+[5.220s] copying resource/gp7_boxes -> /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/share/ament_index/resource_index/packages
+[5.223s] copying package.xml -> /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/share/gp7_boxes
+[5.224s] running install_egg_info
+[5.262s] Copying build/gp7_boxes/gp7_boxes.egg-info to /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes-1.0.0-py3.12.egg-info
+[5.263s] running install_scripts
+[5.423s] Installing boxes script to /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/lib/gp7_boxes
+[5.423s] writing list of installed files to '/home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/install.log'
+[5.483s] Invoked command in '/home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/install/gp7_boxes/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/gp7_boxes build --build-base /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/build install --record /home/jeewantha/Desktop/GP7_Robot._Simulaion/gp7_boxes/build/gp7_boxes/install.log --single-version-externally-managed install_data

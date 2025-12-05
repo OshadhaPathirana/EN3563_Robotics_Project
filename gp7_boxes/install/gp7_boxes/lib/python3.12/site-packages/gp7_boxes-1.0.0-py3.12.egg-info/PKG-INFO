@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: gp7-boxes
+Version: 1.0.0
+Summary: RViz visualization markers for GP7 robot box grab and place simulation
+Maintainer: GP7 Team
+Maintainer-email: gp7@example.com
+License: BSD

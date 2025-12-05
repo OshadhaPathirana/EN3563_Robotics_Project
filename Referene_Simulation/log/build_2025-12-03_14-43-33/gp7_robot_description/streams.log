@@ -1,0 +1,16 @@
+[0.008s] Invoking command in '/home/savindu/gp7_ws/build/gp7_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/savindu/gp7_ws/build/gp7_robot_description -- -j16 -l16
+[0.043s] Invoked command in '/home/savindu/gp7_ws/build/gp7_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/savindu/gp7_ws/build/gp7_robot_description -- -j16 -l16
+[0.049s] Invoking command in '/home/savindu/gp7_ws/build/gp7_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/savindu/gp7_ws/build/gp7_robot_description
+[0.054s] -- Install configuration: ""
+[0.054s] -- Execute custom install script
+[0.055s] -- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//config/display.rviz
+[0.060s] -- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//config/joint_names_gp7_robot.yaml
+[0.067s] [31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:100 (message):
+[0.067s]   ament_cmake_symlink_install_directory() can't find
+[0.067s]   '/home/savindu/gp7_ws/src/gp7_robot_description/launch'
+[0.067s] Call Stack (most recent call first):
+[0.067s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:314 (ament_cmake_symlink_install_directory)
+[0.067s]   cmake_install.cmake:46 (include)
+[0.067s] 
+[0.068s] [0m
+[0.068s] Invoked command in '/home/savindu/gp7_ws/build/gp7_robot_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/savindu/gp7_ws/build/gp7_robot_description

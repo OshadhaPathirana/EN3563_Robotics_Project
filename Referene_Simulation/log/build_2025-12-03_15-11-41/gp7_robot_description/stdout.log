@@ -1,0 +1,14 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//config/display.rviz
+-- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//config/joint_names_gp7_robot.yaml
+-- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//launch/display.launch.py
+-- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//launch/gazebo.launch.py
+-- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_1.STL
+-- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_2.STL
+-- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_3.STL
+-- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_4.STL
+-- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_5.STL
+-- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_6.STL
+-- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/base_link.STL
+-- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//urdf/gp7_robot.urdf

@@ -1,0 +1,33 @@
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/config/joint_names_GP7 Robot.SLDASM.yaml
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/config/urdf.rviz
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/launch/display.launch.py
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/launch/gazebo.launch
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/launch/display.launch
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/launch/display_auto.launch.py
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/launch/gazebo.launch.py
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/meshes/link_4.STL
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/meshes/link_7.STL
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/meshes/link_1.STL
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/meshes/link_6.STL
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/meshes/link_2.STL
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/meshes/link_8.STL
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/meshes/base_link.STL
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/meshes/link_5.STL
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/meshes/link_3.STL
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/urdf/GP7 Robot.SLDASM.csv
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/urdf/GP7 Robot.SLDASM.urdf
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/ament_index/resource_index/package_run_dependencies/gp7_robot
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/ament_index/resource_index/parent_prefix_path/gp7_robot
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/environment/ament_prefix_path.sh
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/environment/ament_prefix_path.dsv
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/environment/path.sh
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/environment/path.dsv
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/local_setup.bash
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/local_setup.sh
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/local_setup.zsh
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/local_setup.dsv
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/package.dsv
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/ament_index/resource_index/packages/gp7_robot
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/cmake/gp7_robotConfig.cmake
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/cmake/gp7_robotConfig-version.cmake
+/home/jeewantha/Desktop/GP7_Robot._Simulaion/install/gp7_robot/share/gp7_robot/package.xml

@@ -1,0 +1,32 @@
+[0.137s] Invoking command in '/home/savindu/gp7_ws/build/gp7_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/savindu/gp7_ws/install/gp7_boxes:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/savindu/gp7_ws/build/gp7_robot_description -- -j16 -l16
+[0.165s] Invoked command in '/home/savindu/gp7_ws/build/gp7_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/savindu/gp7_ws/install/gp7_boxes:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/savindu/gp7_ws/build/gp7_robot_description -- -j16 -l16
+[0.171s] Invoking command in '/home/savindu/gp7_ws/build/gp7_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/savindu/gp7_ws/install/gp7_boxes:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/savindu/gp7_ws/build/gp7_robot_description
+[0.177s] -- Install configuration: ""
+[0.177s] -- Execute custom install script
+[0.177s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//config/joint_names_gp7_robot.yaml
+[0.177s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//launch/display.launch.py
+[0.177s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_1.STL
+[0.177s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_2.STL
+[0.178s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_3.STL
+[0.178s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_4.STL
+[0.178s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_5.STL
+[0.178s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_6.STL
+[0.178s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/base_link.STL
+[0.178s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//urdf/gp7_robot.urdf
+[0.178s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//rviz/display.rviz
+[0.178s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/ament_index/resource_index/package_run_dependencies/gp7_robot_description
+[0.179s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/ament_index/resource_index/parent_prefix_path/gp7_robot_description
+[0.179s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description/environment/ament_prefix_path.sh
+[0.179s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description/environment/ament_prefix_path.dsv
+[0.179s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description/environment/path.sh
+[0.179s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description/environment/path.dsv
+[0.179s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description/local_setup.bash
+[0.179s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description/local_setup.sh
+[0.179s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description/local_setup.zsh
+[0.179s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description/local_setup.dsv
+[0.179s] -- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description/package.dsv
+[0.186s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/ament_index/resource_index/packages/gp7_robot_description
+[0.186s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description/cmake/gp7_robot_descriptionConfig.cmake
+[0.186s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description/cmake/gp7_robot_descriptionConfig-version.cmake
+[0.186s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description/package.xml
+[0.187s] Invoked command in '/home/savindu/gp7_ws/build/gp7_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/savindu/gp7_ws/install/gp7_boxes:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/savindu/gp7_ws/build/gp7_robot_description

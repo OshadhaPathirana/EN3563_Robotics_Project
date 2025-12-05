@@ -1,0 +1,2 @@
+[console_scripts]
+boxes = gp7_boxes.scripts.boxes:main

@@ -1,0 +1,26 @@
+[0.007s] Invoking command in '/home/savindu/gp7_ws/build/gp7_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/savindu/gp7_ws/build/gp7_robot_description -- -j16 -l16
+[0.038s] Invoked command in '/home/savindu/gp7_ws/build/gp7_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/savindu/gp7_ws/build/gp7_robot_description -- -j16 -l16
+[0.049s] Invoking command in '/home/savindu/gp7_ws/build/gp7_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/savindu/gp7_ws/build/gp7_robot_description
+[0.055s] -- Install configuration: ""
+[0.055s] -- Execute custom install script
+[0.056s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//config/display.rviz
+[0.056s] -- Up-to-date symlink: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//config/joint_names_gp7_robot.yaml
+[0.056s] -- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//launch/display.launch.py
+[0.061s] -- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//launch/gazebo.launch.py
+[0.068s] -- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_1.STL
+[0.076s] -- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_2.STL
+[0.086s] -- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_3.STL
+[0.092s] -- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_4.STL
+[0.097s] -- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_5.STL
+[0.103s] -- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/Link_6.STL
+[0.108s] -- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//meshes/base_link.STL
+[0.114s] -- Symlinking: /home/savindu/gp7_ws/install/gp7_robot_description/share/gp7_robot_description//urdf/gp7_robot.urdf
+[0.121s] [31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:100 (message):
+[0.121s]   ament_cmake_symlink_install_directory() can't find
+[0.121s]   '/home/savindu/gp7_ws/src/gp7_robot_description/rviz'
+[0.121s] Call Stack (most recent call first):
+[0.121s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:314 (ament_cmake_symlink_install_directory)
+[0.121s]   cmake_install.cmake:46 (include)
+[0.121s] 
+[0.121s] [0m
+[0.122s] Invoked command in '/home/savindu/gp7_ws/build/gp7_robot_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/savindu/gp7_ws/build/gp7_robot_description

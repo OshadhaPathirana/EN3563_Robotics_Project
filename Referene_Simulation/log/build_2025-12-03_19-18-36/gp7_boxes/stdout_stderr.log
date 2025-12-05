@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/gp7_boxes/gp7_boxes.egg-info/PKG-INFO
+writing dependency_links to ../../build/gp7_boxes/gp7_boxes.egg-info/dependency_links.txt
+writing entry points to ../../build/gp7_boxes/gp7_boxes.egg-info/entry_points.txt
+writing requirements to ../../build/gp7_boxes/gp7_boxes.egg-info/requires.txt
+writing top-level names to ../../build/gp7_boxes/gp7_boxes.egg-info/top_level.txt
+reading manifest file '../../build/gp7_boxes/gp7_boxes.egg-info/SOURCES.txt'
+writing manifest file '../../build/gp7_boxes/gp7_boxes.egg-info/SOURCES.txt'
+running build
+running build_py
+copying gp7_boxes/__init__.py -> /home/savindu/gp7_ws/build/gp7_boxes/build/lib/gp7_boxes
+running install
+running install_lib
+copying /home/savindu/gp7_ws/build/gp7_boxes/build/lib/gp7_boxes/__init__.py -> /home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes
+byte-compiling /home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes/__init__.py to __init__.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/gp7_boxes/gp7_boxes.egg-info to /home/savindu/gp7_ws/install/gp7_boxes/lib/python3.12/site-packages/gp7_boxes-0.0.0-py3.12.egg-info
+running install_scripts
+Installing boxes script to /home/savindu/gp7_ws/install/gp7_boxes/lib/gp7_boxes
+writing list of installed files to '/home/savindu/gp7_ws/build/gp7_boxes/install.log'

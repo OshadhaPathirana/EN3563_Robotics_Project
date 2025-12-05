@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+build/gp7_boxes/gp7_boxes.egg-info/PKG-INFO
+build/gp7_boxes/gp7_boxes.egg-info/SOURCES.txt
+build/gp7_boxes/gp7_boxes.egg-info/dependency_links.txt
+build/gp7_boxes/gp7_boxes.egg-info/entry_points.txt
+build/gp7_boxes/gp7_boxes.egg-info/requires.txt
+build/gp7_boxes/gp7_boxes.egg-info/top_level.txt
+build/gp7_boxes/gp7_boxes.egg-info/zip-safe
+gp7_boxes/__init__.py
+gp7_boxes/scripts/__init__.py
+gp7_boxes/scripts/boxes.py
+resource/gp7_boxes

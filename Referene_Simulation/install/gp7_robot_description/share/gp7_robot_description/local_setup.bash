@@ -1,0 +1,1 @@
+/home/savindu/gp7_ws/build/gp7_robot_description/ament_cmake_environment_hooks/local_setup.bash
